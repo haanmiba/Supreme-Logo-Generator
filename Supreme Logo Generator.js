@@ -1,7 +1,7 @@
 /*
  * Author: Hans Bas
  *
- * Date: 08-20-2018
+ * Date: 08-19-2018
  */
 
 const ERROR_MESSAGES = [
