@@ -14,11 +14,11 @@ The Supreme Logo Generator is a project built for fun. It serves to generate [Su
 
 Prior to the installation of the script, other programs and files need to be installed onto the user's local machine for the script to work correctly.
 
-#### Adobe Photoshop
+#### **Adobe Photoshop**
 
 Since this is a script for Adobe Photoshop, the user must have a copy of Adobe Photoshop installed. Adobe Photoshop can be purchased and downloaded from Adobe's official website [here](https://www.adobe.com/photoshop).
 
-#### Futura Font
+#### **Futura Font**
 
 The font used for Supreme Box Logos is Futura Std Heavy Oblique. The user should have this font downloaded and installed on their local machine if they want the logos to come out looking correctly. Running the script without downloading the font before will cause Adobe Photoshop to select a default font and generate the logos with that font rather than Futura.
 
