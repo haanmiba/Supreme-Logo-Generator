@@ -1,5 +1,9 @@
 # Supreme Logo Generator
 
+<div align="center">
+	<img alt="Supreme Logo Generator" src="media/Supreme-Sticker-Generator-Supreme-Box-Logo.png"/>
+</div>
+
 The Supreme Logo Generator is a project built for fun. It serves to generate [Supreme Box Logos](https://en.wikipedia.org/wiki/Supreme_(brand)) from the data stored on a CSV file and export these logos to PNG image files.
 
 ## Getting Started
