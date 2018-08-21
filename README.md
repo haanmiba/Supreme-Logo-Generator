@@ -30,3 +30,14 @@ Instructions for installing font on local machine (courtesy of Fontspring):
 
 ### Installing
 
+To install a copy of the project, navigate to the top of the [page](https://github.com/haanmiba/Supreme-Logo-Generator) for the Supreme Logo Generator GitHub repository and click on the green button on the right side for **Clone or download** and then click on **Download ZIP**.
+
+<div align="center">
+	<img alt="Download Zip Screenshot" width="50%" src="media/Download-Zip-Screenshot.jpg"/>
+</div>
+
+Once the .zip file has been downloaded, unzip the file, and now there should be a folder called "Supreme-Logo-Generator-master". Feel free to move this folder to any directory as long as it can be easily found.
+
+## Running the Program
+
+Once the user has installed Adobe Photoshop, Futura, and unzipped a copy of this repository on their local machine, they should be set to run the script and begin generating Supreme Box Logos.
