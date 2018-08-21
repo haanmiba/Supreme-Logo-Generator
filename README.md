@@ -30,3 +30,8 @@ Instructions for installing font on local machine (courtesy of Fontspring):
 
 ### Installing
 
+To install a copy of the project, navigate to the top of the [page](https://github.com/haanmiba/Supreme-Logo-Generator) for the Supreme Logo Generator GitHub repository and click on the green button on the right side for **Clone or download** and then click on **Download ZIP**.
+
+<div align="center">
+	<img alt="Download Zip Screenshot" src="media/Download-Zip-Screenshot.jpg"/>
+</div>
