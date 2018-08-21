@@ -35,6 +35,8 @@ const HORIZONTAL_PADDING = 140;
 const VERTICAL_PADDING = 80;
 const PIXELS = "px";
 
+const PNG_EXTENSION = ".png";
+
 /** Main method for the program -- takes in user input to generate Supreme Box Logos to an output directory. */
 function main() {
 
@@ -98,6 +100,7 @@ function promptUserToSelectCSVFile() {
  * @returns {boolean} TRUE if the file path ends with '.csv', FALSE otherwise.
  */
 function filterCSVFiles(file){
+	if (file.constructor.name == "Folder") { return true; }
     if (file.name.match(/\.csv$/)) { return true; }
     return false
 }
@@ -901,7 +904,7 @@ function savePNG(fileName, outputFilePath) {
 	opts.quality = 100;
 
 	// Export PNG file and save to computer.
-	var file = new File(outputFilePath + '/' + fileName + ' Supreme Box Logo' + '.png');
+	var file = new File(outputFilePath + '/' + fileName + ' Supreme Box Logo' + PNG_EXTENSION);
 	app.activeDocument.exportDocument(file, ExportType.SAVEFORWEB, opts);	
 }
 
