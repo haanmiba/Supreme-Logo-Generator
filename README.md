@@ -41,3 +41,7 @@ Once the .zip file has been downloaded, unzip the file, and now there should be 
 ## Running the Program
 
 Once the user has installed Adobe Photoshop, Futura, and unzipped a copy of this repository on their local machine, they should be set to run the script and begin generating Supreme Box Logos.
+
+### Step 1: Adding Data to CSV Files
+
+The way the program works is that the script prompts the user to select a CSV file to generate images from. The CSV file must be formatted in a certain way in order for the script to parse the data correctly.
