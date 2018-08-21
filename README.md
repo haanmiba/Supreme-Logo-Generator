@@ -50,11 +50,23 @@ The way the program works is that the script prompts the user to select a CSV fi
 
 In the unzipped Supreme Logo Generator folder is a folder called "source-csv-files". Within this folder is four CSV files that can be edited and modified to add data to to create logos. The program uses three different ways to represent colors in a CSV file:
 
-* [HEX] (https://www.w3schools.com/colors/colors_hexadecimal.asp) (ex. #FF0000 is red)
-* [Shorthand HEX] (http://www.websiteoptimization.com/speed/tweak/hex/) (ex. shorthand hex equivalent of #FF0000 is #F00)
-* [RGB] (https://www.w3schools.com/colors/colors_rgb.asp) (ex. (255, 0, 0) is red)
+* [HEX](https://www.w3schools.com/colors/colors_hexadecimal.asp) (ex. #FF0000 is red)
+* [Shorthand HEX](http://www.websiteoptimization.com/speed/tweak/hex/) (ex. shorthand hex equivalent of #FF0000 is #F00)
+* [RGB](https://www.w3schools.com/colors/colors_rgb.asp) (ex. (255, 0, 0) is red)
 
 Likewise, there are three different CSV files that utilize these different ways to represent color. Select one that you may find most suitable. The following examples will be done in regular HEX on the Source-Hex.csv file.
 
-|   |   |   |   |
-|---|---|---|---|
+Example:
+
+| FILE_NAME     | TITLE   | TITLE_COLOR | BACKGROUND_COLOR |
+|---------------|---------|-------------|------------------|
+| Supreme-Red   | Supreme | #FFFFFF     | #E42621          |
+| Supreme-Green | Supreme | #FFFFFF     | #00FF00          |
+| Supreme-Blue  | Supreme | #FFFFFF     | #0000FF          |
+
+From left to right:
+
+1. **FILE_NAME** - The name of the file once it has been generated. No need to add the .PNG extension at the end, the program will take care of this.
+2. **TITLE** - The foreground text of the logo.
+3. **TITLE_COLOR** - The color of the foreground text.
+4. **BACKGROUND_COLOR** - The color of the background.
