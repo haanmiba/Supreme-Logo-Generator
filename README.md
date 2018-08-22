@@ -48,7 +48,7 @@ The way the program works is that the script prompts the user to select a CSV fi
 
 #### CSV File Layout
 
-In the unzipped Supreme Logo Generator folder is a folder called "source-csv-files". Within this folder are CSV files that can be edited and modified to add data to create logos. The program uses three different ways to represent colors in a CSV file:
+In the unzipped Supreme Logo Generator folder is a folder called **_source-csv-files_**. Within this folder are CSV files that can be edited and modified to add data to create logos. The program uses three different ways to represent colors in a CSV file:
 
 * [HEX](https://www.w3schools.com/colors/colors_hexadecimal.asp) (ex. #FF0000 is red)
 * [Shorthand HEX](http://www.websiteoptimization.com/speed/tweak/hex/) (ex. shorthand hex equivalent of #FF0000 is #F00)
@@ -93,7 +93,7 @@ Continue to do this until the CSV file contains all of the data for all of the l
 
 ### Step 2: Open Up Adobe Photoshop
 
-Launch Adobe Photoshop. There is a .psd file within the unzipped folder titled "Supreme Box Logo Template.psd". This file contains only two layers: Title and Background. Open this file.
+Launch Adobe Photoshop. There is a .psd file within the unzipped folder titled **_Supreme Box Logo Template.psd_**. This file contains only two layers: Title and Background. Open this file.
 
 <div width="50%" align="center">
 	<img alt="Layers Screenshot" src="media/Photoshop-Layers-Screenshot.jpg" />
@@ -105,3 +105,8 @@ Launch Adobe Photoshop. There is a .psd file within the unzipped folder titled "
 
 Navigate to the top menu bar and select **_File > Scripts > Browse..._**.
 
+<div width="75%" align="center>
+	    <img alt="Photoshop File > Scripts > Browse... Screenshot" src="media/Photoshop-File-Scripts-Browse-Screenshot.jpg" />
+</div>
+
+After clicking on **_Browse..._**, Adobe Photoshop will prompt you to select a JavaScript file within your local machine. Navigate to where you placed the "Supreme-Logo-Generator-master" folder. Select **_Supreme Logo Generator.js_** to launch the script.
