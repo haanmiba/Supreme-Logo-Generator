@@ -82,3 +82,15 @@ For example, say that we wish to create a new logo with the text "John Smith", w
 | FILE_NAME     | TITLE      | TITLE_COLOR | BACKGROUND_COLOR |
 |---------------|------------|-------------|------------------|
 | John          | John Smith | #FFFFFF     | #0000FF          |
+
+If we wish to do the same thing but using RGB, open up Source-RGB.csv and we enter this row to the CSV file:
+
+| FILE_NAME | TITLE      | TITLE_RED | TITLE_GREEN | TITLE_BLUE | BACKGROUND_RED | BACKGROUND_GREEN | BACKGROUND_BLUE |
+|-----------|------------|-----------|-------------|------------|----------------|------------------|-----------------|
+| John      | John Smith | 255       | 255         | 255        | 0              | 0                | 255             |
+
+Continue to do this until the CSV file contains all of the data for all of the logos that will be generated.
+
+### Step 2: Open Up Adobe Photoshop
+
+Launch Adobe Photoshop. There is a .PSD file within the unzipped folder titled "Supreme Box Logo Template.psd". This file contains only two layers: Title and Background.
