@@ -93,8 +93,15 @@ Continue to do this until the CSV file contains all of the data for all of the l
 
 ### Step 2: Open Up Adobe Photoshop
 
-Launch Adobe Photoshop. There is a .PSD file within the unzipped folder titled "Supreme Box Logo Template.psd". This file contains only two layers: Title and Background.
+Launch Adobe Photoshop. There is a .psd file within the unzipped folder titled "Supreme Box Logo Template.psd". This file contains only two layers: Title and Background. Open this file.
 
 <div width="50%" align="center">
 	<img alt="Layers Screenshot" src="media/Photoshop-Layers-Screenshot.jpg" />
 </div>
+
+**_Note: Do NOT change the names of these layers in Photoshop, it will cause the script to fail._**
+
+### Step 3: Launching the Script
+
+Navigate to the top menu bar and select **_File > Scripts > Browse..._**.
+
