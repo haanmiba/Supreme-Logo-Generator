@@ -105,8 +105,16 @@ Launch Adobe Photoshop. There is a .psd file within the unzipped folder titled *
 
 Navigate to the top menu bar and select **_File > Scripts > Browse..._**.
 
-<div width="75%" align="center>
-	    <img alt="Photoshop File > Scripts > Browse... Screenshot" src="media/Photoshop-File-Scripts-Browse-Screenshot.jpg" />
+<div width="75%" align="center">
+	<img alt="Photoshop File > Scripts > Browse... Screenshot" src="media/Photoshop-File-Scripts-Browse-Screenshot.jpg" />
 </div>
 
 After clicking on **_Browse..._**, Adobe Photoshop will prompt you to select a JavaScript file within your local machine. Navigate to where you placed the "Supreme-Logo-Generator-master" folder. Select **_Supreme Logo Generator.js_** to launch the script.
+
+<div align="center">
+	<img alt="Photoshop Select Script Screenshot" src="media/Photoshop-Select-Script.jpg" />
+</div>
+
+### Step 4: Select a CSV File
+
+Upon launching the script, Adobe Photoshop will prompt you to select a CSV file that contains data to generate logos from.
