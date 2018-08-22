@@ -46,7 +46,7 @@ Once the user has installed Adobe Photoshop, Futura, and unzipped a copy of this
 
 The way the program works is that the script prompts the user to select a CSV file to generate images from. The CSV file must be formatted in a certain way in order for the script to parse the data correctly.
 
-#### CSV File Format
+#### CSV File Layout
 
 In the unzipped Supreme Logo Generator folder is a folder called "source-csv-files". Within this folder are CSV files that can be edited and modified to add data to create logos. The program uses three different ways to represent colors in a CSV file:
 
@@ -56,7 +56,7 @@ In the unzipped Supreme Logo Generator folder is a folder called "source-csv-fil
 
 Likewise, there are three different CSV files that utilize these different ways to represent color. Select one that you may find most suitable. The following example will be done in regular HEX on the Source-Hex.csv file.
 
-Example:
+Source-Hex.csv:
 
 | FILE_NAME     | TITLE   | TITLE_COLOR | BACKGROUND_COLOR |
 |---------------|---------|-------------|------------------|
@@ -74,3 +74,11 @@ From left to right:
 <div width="75%" align="center">
 	<img alt="Supreme Logo Diagram" src="media/Supreme-Logo-Diagram.png" />
 </div>
+
+To generate a new logo, all that is needed is to add a new row to the CSV file with the corresponding information in its appropriate locations.
+
+For example, say that we wish to create a new logo with the text "John Smith", white text (#FFFFFF) over a blue background (#0000FF). All that would need to be done is to add the following row to the CSV file:
+
+| FILE_NAME     | TITLE      | TITLE_COLOR | BACKGROUND_COLOR |
+|---------------|------------|-------------|------------------|
+| John          | John Smith | #FFFFFF     | #0000FF          |
