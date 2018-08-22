@@ -100,3 +100,8 @@ Launch Adobe Photoshop. There is a .psd file within the unzipped folder titled "
 </div>
 
 **_Note: Do NOT change the names of these layers in Photoshop, it will cause the script to fail._**
+
+### Step 3: Launching the Script
+
+Navigate to the top menu bar and select **_File > Scripts > Browse..._**.
+
