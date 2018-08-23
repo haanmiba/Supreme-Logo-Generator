@@ -118,3 +118,10 @@ After clicking on **_Browse..._**, Adobe Photoshop will prompt you to select a J
 ### Step 4: Select a CSV File
 
 Upon launching the script, Adobe Photoshop will prompt you to select a CSV file that contains data to generate logos from.
+
+<div align="center">
+	<img alt="Select CSV Part 1 Screenshot" src="media/Photoshop-Select-CSV-Part-1-Screenshot.jpg" />
+</div>
+<div align="center">
+	<img alt="Select CSV Part 2 Screenshot" src="media/Photoshop-Select-CSV-Part-2-Screenshot.jpg" />
+</div>
