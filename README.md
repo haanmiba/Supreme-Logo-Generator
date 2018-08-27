@@ -122,3 +122,15 @@ Upon launching the script, Adobe Photoshop will prompt you to select a CSV file 
 <div align="center">
 	<img alt="Select CSV Part 2 Screenshot" src="media/Photoshop-Select-CSV-Part-2-Screenshot.jpg" />
 </div>
+
+### Step 5: Selecting Which Rows to Generate Images From
+
+After selecting the CSV file to generate images from, the program will read the CSV file to determine which rows are valid. Invalid rows will not be used to generate images (ex. headers, empty rows, etc.). The program will keep count of the valid rows and then prompt the user to enter a range of which rows to generate images from. **_(start, end]_**
+
+#### Start:
+<div align="center">
+</div>
+
+#### End:
+<div align="center">
+</div>
