@@ -144,5 +144,25 @@ So for example, if we use the **_Source-Hex.csv_**, we have four valid rows to g
 Now that we have selected which logos will be generated, the program will ask to select the directory/folder to output the generated logo .png files to. For this program, we output the logos to the folder **_generated-logos_**.
 
 <div align="center">
-	
+	<img alt="Output directory screenshot" src="media/Photoshop-Select-Output-Directory-Screenshot.jpg" />
+</div>
+
+### Step 7: Checking the Generated Logos!
+
+Now that we have completed generating logos, check the folder where they were output to and make sure that they look fine:
+
+<div align="center">
+	<img alt="Output directory screenshot" src="media/Photoshop-Select-Output-Directory-Screenshot.jpg" />
+</div>
+
+<div align="center">
+	<img alt="Red Supreme Box Logo" src="generated-logos/Supreme-Red-Supreme-Box-Logo.png" />
+</div>
+
+<div align="center">
+	<img alt="Green Supreme Box Logo" src="generated-logos/Supreme-Green-Supreme-Box-Logo.png" />
+</div>
+
+<div align="center">
+	<img alt="Blue Supreme Box Logo" src="generated-logos/Supreme-Blue-Supreme-Box-Logo.png" />
 </div>
