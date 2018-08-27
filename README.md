@@ -123,14 +123,26 @@ Upon launching the script, Adobe Photoshop will prompt you to select a CSV file 
 	<img alt="Select CSV Part 2 Screenshot" src="media/Photoshop-Select-CSV-Part-2-Screenshot.jpg" />
 </div>
 
-### Step 5: Selecting Which Rows to Generate Images From
+### Step 5: Selecting Which Rows to Generate Logos From
 
-After selecting the CSV file to generate images from, the program will read the CSV file to determine which rows are valid. Invalid rows will not be used to generate images (ex. headers, empty rows, etc.). The program will keep count of the valid rows and then prompt the user to enter a range of which rows to generate images from. **_(start, end]_**
+After selecting the CSV file to generate logos from, the program will read the CSV file to determine which rows are valid. Invalid rows will not be used to generate logos (ex. headers, empty rows, etc.). The program will keep count of the valid rows and then prompt the user to enter a range of which rows to generate logos from. **_\[start, end)_** 
+
+So for example, if we use the **_Source-Hex.csv_**, we have four valid rows to generate logos from. If we only want to generate the first three of the four logos, our range will be: **_\[0, 3)_**, so we enter it as such:
 
 #### Start:
 <div align="center">
+	<img alt="Enter start range screenshot" src="media/Photoshop-Enter-Start-Range-Screenshot.jpg" />
 </div>
 
 #### End:
 <div align="center">
+	<img alt="Enter end range screenshot" src="media/Photoshop-Enter-End-Range-Screenshot.jpg" />
+</div>
+
+### Step 6: Selecting the Output Directory
+
+Now that we have selected which logos will be generated, the program will ask to select the directory/folder to output the generated logo .png files to. For this program, we output the logos to the folder **_generated-logos_**.
+
+<div align="center">
+	
 </div>
