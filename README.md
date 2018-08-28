@@ -152,10 +152,6 @@ Now that we have selected which logos will be generated, the program will ask to
 Now that we have completed generating logos, check the folder where they were output to and make sure that they look fine:
 
 <div align="center">
-	<img alt="Output directory screenshot" src="media/Photoshop-Select-Output-Directory-Screenshot.jpg" />
-</div>
-
-<div align="center">
 	<img alt="Red Supreme Box Logo" src="generated-logos/Supreme-Red-Supreme-Box-Logo.png" />
 </div>
 
@@ -166,3 +162,15 @@ Now that we have completed generating logos, check the folder where they were ou
 <div align="center">
 	<img alt="Blue Supreme Box Logo" src="generated-logos/Supreme-Blue-Supreme-Box-Logo.png" />
 </div>
+
+## Built With
+
+The Supreme Logo Generator is built using JavaScript on [Adobe Photoshop Scripting](https://www.adobe.com/devnet/photoshop/scripting.html). The Adobe Photoshop CS6 JavaScript reference can be found [here](https://wwwimages2.adobe.com/content/dam/acom/en/devnet/photoshop/scripting/Photoshop-CS6-JavaScript-Ref.pdf).
+
+## Authors
+
+* Hans Bas
+
+## Acknowledgments
+
+* [Markdown Tables from TablesGenerator.com](https://www.tablesgenerator.com/markdown_tables) – used to create the markdown tables for this README.
