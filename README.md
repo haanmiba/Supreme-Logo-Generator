@@ -151,15 +151,15 @@ Now that we have selected which logos will be generated, the program will ask to
 
 Now that we have completed generating logos, check the folder where they were output to and make sure that they look fine:
 
-<div align="center">
+<div width="70%" align="center">
 	<img alt="Red Supreme Box Logo" src="generated-logos/Supreme-Red-Supreme-Box-Logo.png" />
 </div>
 
-<div align="center">
+<div width="70%" align="center">
 	<img alt="Green Supreme Box Logo" src="generated-logos/Supreme-Green-Supreme-Box-Logo.png" />
 </div>
 
-<div align="center">
+<div width="70%" align="center">
 	<img alt="Blue Supreme Box Logo" src="generated-logos/Supreme-Blue-Supreme-Box-Logo.png" />
 </div>
 
